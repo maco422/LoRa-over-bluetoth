@@ -17,5 +17,6 @@ Usable command are bellow
 * --set_public (set public configuration, to hear and send unencrypted messages).
   
   
-* To send an encrypted message between two devices both devices must be connected to own LILYGO® TTGO T-Beam V1.1 and Encryption code must be set same on both devices. 
-* Please change this line `#define BAND    923E6` to BAND allowed in your country.
+To send an encrypted message between two devices both devices must be connected to own LILYGO® TTGO T-Beam V1.1 and Encryption code must be set same on both devices. 
+
+Please change this line `#define BAND    923E6` to BAND allowed in your country.
