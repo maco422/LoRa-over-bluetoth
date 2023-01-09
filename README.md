@@ -20,3 +20,6 @@ Usable command are bellow
 To send an encrypted message between two devices both devices must be connected to own LILYGO® TTGO T-Beam V1.1 and Encryption code must be set same on both devices. 
 
 Please change this line `#define BAND    923E6` to BAND allowed in your country.
+
+
+![20230109_105305](https://user-images.githubusercontent.com/118419975/211231372-377fa800-e6f7-41ac-9e1c-42967153eae0.jpg)
