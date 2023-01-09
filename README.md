@@ -1,12 +1,12 @@
 # LoRa-over-bluetoth
-Small project to send and recieve messages over LoRa and bluetoth to devices like smartphones and PC.
+Small project to send and recieve messages over LoRa and bluetooth to devices like smartphones and PC.
 
 
 This code should work with LILYGO® TTGO T-Beam V1.1 device. Connection map looks like this:
 
-<smartphone/pc> -bluetoth connection- <LILYGO® TTGO T-Beam V1.1> -LoRa connection- <LILYGO® TTGO T-Beam V1.1> -bluetoth connection- <smartphone/pc>
+<smartphone/pc> -bluetooth connection- <LILYGO® TTGO T-Beam V1.1> -LoRa connection- <LILYGO® TTGO T-Beam V1.1> -bluetooth connection- <smartphone/pc>
 
-I did not create an app for sending messages, but you can use Bluetoth Serial Terminal app for Android devices and Windows.
+I did not create an app for sending messages, but you can use Bluetooth Serial Terminal app for Android devices and Windows.
 
 Usable command are bellow
 
