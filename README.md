@@ -13,7 +13,7 @@ Usable command are bellow
 --set_name:<YOUR NAME> (for device name change)
 --get_name (for getting current name)
 --get_code (for getting current Encryption code)
---set_code:<CODE> (For set a new Encryption code (must be 15 ASCII chars))
+--set_code:<YOUR CODE> (For set a new Encryption code (must be 15 ASCII chars))
 --set_public (set public configuration, to hear and send unencrypted messages).
   
   
